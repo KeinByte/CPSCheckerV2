@@ -1,0 +1,7 @@
+name: CpsChecker
+version: 1.0
+author: KeinByte
+main: de.keinbyte.cpschecker.CpsChecker
+
+commands:
+  cps:
